@@ -1,0 +1,2 @@
+export PYPI_MIRROR_URL=${PYPI_BASE_URL:-${BANDERSNATCH_BASE_URL:?}}/helion-build-config_snapshot-2017-05-13
+HELION_BUILD_CONFIG=1
